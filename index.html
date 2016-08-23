@@ -1,8 +1,3 @@
----
-title: This is my title
-layout: post
----
-
 # Test Document
 
 ## This is the first test document 
