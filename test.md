@@ -33,8 +33,8 @@ Not clear why this is _italics_ and this is **bold**
 
 |*Name*|*Email*|
 |------|------|
-|Chris Erickson|chrise@microway.com.au|
-|Evan Thomas|evant@microway.com.au|
+|Chris Shanks|chriss@shaky.com.au|
+|Evan Homes|evanh@shanky.com.au|
 
 
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
