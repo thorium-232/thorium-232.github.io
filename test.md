@@ -37,4 +37,12 @@ Not clear why this is _italics_ and this is **bold**
 - [x] this is a complete item
 - [ ] this is an incomplete item
 
+
+| Feautre     | Standard | Professional | Enterprise |
+|-------------|----------|--------------|------------|
+|AppX Support |          |              |     X      |
+|MSI Support  |      X   |      X       |     X      |
+|InstallScript|          |      X       |     X      |
+
+
 ## THE END
