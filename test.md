@@ -44,5 +44,6 @@ Not clear why this is _italics_ and this is **bold**
 |MSI Support  |      X   |      X       |     X      |
 |InstallScript|          |      X       |     X      |
 
+This is a ~~strikethtough~~ test using the `~~` either side.
 
 ## THE END
